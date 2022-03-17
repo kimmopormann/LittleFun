@@ -1,0 +1,1 @@
+Eestikeelne väike programmike, mis küsib vastajalt algul mõned küsimused ja ärgitab siis mängima kahte mängu. Esimene mäng on salajase numbri äraarvamine ja teine kivi, paber, käärid. Programm kestan niikaua, kuni mängija vajutab viimases mängus n ehk ei soovi enam mängida.
